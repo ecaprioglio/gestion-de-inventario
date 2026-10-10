@@ -2,6 +2,7 @@
 Integrantes:
 Estella Caprioglio
 Krishna Salas
+Ángel Larenas
 
 Descripcion:
 Permite gestionar a emprendimientos y negocios el stock disponible, registrar ingresos de nueva mercadería y actualizar inventario en tiempo real para ventas de moda y calzado.
